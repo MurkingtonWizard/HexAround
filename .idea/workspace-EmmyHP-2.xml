@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78318cdd-0b3b-4853-9f3a-91bd171e94ef" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/hexaround/game/board/Board.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/hexaround/game/board/BoardDup.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2bjMMgO6koEK9pdbOQDRfdkleGn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Board.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BoardDup.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BoardGraph.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BoardV2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConfigErrorTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTests.ProfTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTests.fullGame_firstMoves.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTests.moveCreature_validMoveOverlapping.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.HexAroundConfigurationTests.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.HexAroundConfigurationTests.simpleTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-20&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ejkru/OneDrive/23-24/2024 C/CS 4233/HexAround/HexAroundC24/testConfigurations&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ejkru\OneDrive\23-24\2024 C\CS 4233\HexAround\HexAroundC24\testConfigurations" />
+      <recent name="C:\Users\ejkru\OneDrive\23-24\2024 C\CS 4233\HexAround\HexAroundC24" />
+      <recent name="C:\Users\ejkru\OneDrive\23-24\2024 C\CS 4233\HexAround\HexAroundC24\src\hexaround" />
+      <recent name="C:\Users\ejkru\OneDrive\23-24\2024 C\CS 4233\HexAround\HexAroundC24\src\hexaround\game" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ejkru\OneDrive\23-24\2024 C\CS 4233\HexAround\HexAroundC24\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="hexaround.config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hexaround.game.board" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GameTests">
+    <configuration name="Board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hexaround.game.board.Board" />
+      <module name="Hexaround-C24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hexaround.game.board.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoardDup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hexaround.game.board.BoardDup" />
+      <module name="Hexaround-C24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hexaround.game.board.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTests" type="JUnit" factoryName="JUnit">
+      <module name="Hexaround-C24" />
+      <option name="PACKAGE_NAME" value="game" />
+      <option name="MAIN_CLASS_NAME" value="game.GameTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTests.ProfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hexaround-C24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="game" />
+      <option name="MAIN_CLASS_NAME" value="game.GameTests" />
+      <option name="METHOD_NAME" value="ProfTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTests.fullGame_firstMoves" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hexaround-C24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="game" />
+      <option name="MAIN_CLASS_NAME" value="game.GameTests" />
+      <option name="METHOD_NAME" value="fullGame_firstMoves" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTests.moveCreature_WalkingOverCreatures" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hexaround-C24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="game" />
+      <option name="MAIN_CLASS_NAME" value="game.GameTests" />
+      <option name="METHOD_NAME" value="moveCreature_WalkingOverCreatures" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Board" />
+      <item itemvalue="Application.BoardDup" />
+      <item itemvalue="JUnit.GameTests" />
+      <item itemvalue="JUnit.GameTests.moveCreature_WalkingOverCreatures" />
+      <item itemvalue="JUnit.GameTests.fullGame_firstMoves" />
+      <item itemvalue="JUnit.GameTests.ProfTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GameTests.fullGame_firstMoves" />
+        <item itemvalue="Application.BoardDup" />
+        <item itemvalue="Application.Board" />
+        <item itemvalue="JUnit.GameTests.moveCreature_WalkingOverCreatures" />
+        <item itemvalue="JUnit.GameTests.ProfTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-4caba194b151-5bc9ecd2" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78318cdd-0b3b-4853-9f3a-91bd171e94ef" name="Changes" comment="" />
+      <created>1706723988791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706723988791</updated>
+      <workItem from="1706723989856" duration="1068000" />
+      <workItem from="1706741227879" duration="4000" />
+      <workItem from="1706800720811" duration="15000" />
+      <workItem from="1706800748982" duration="3523000" />
+      <workItem from="1706810106831" duration="4534000" />
+      <workItem from="1706814911492" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hexaround/game/board/BoardDup.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/game/GameTests.java</url>
+          <line>175</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hexaround/game/board/BoardDup.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hexaround/game/board/BoardDup.java</url>
+          <line>151</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HexAroundC24$GameTests_moveCreature_validMoveOverlapping.ic" NAME="GameTests.moveCreature_validMoveOverlapping Coverage Results" MODIFIED="1708401712099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>game.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HexAroundC24$GameTests.ic" NAME="GameTests Coverage Results" MODIFIED="1708996447831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/HexAroundC24$HexAroundConfigurationTests.ic" NAME="HexAroundConfigurationTests Coverage Results" MODIFIED="1706988861538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>config.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HexAroundC24$Submission2Tests.ic" NAME="Submission2Tests Coverage Results" MODIFIED="1708904054136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

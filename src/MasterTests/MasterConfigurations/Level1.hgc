@@ -1,0 +1,21 @@
+/* HexAround Game Configuration for Level 1 */
+
+CREATURES:
+	butterfly [walking queen]
+	crab 3 [walking]
+	dove 5 [flying]
+	spider 2 [walking]
+	hummingbird 3 [flying]
+
+PLAYERS:
+	BLUE
+		butterfly 1,
+		crab 3,
+        dove 5,
+        hummingbird 2
+
+	RED
+		butterfly 1,
+		crab 2,
+		dove 5,
+		spider 2

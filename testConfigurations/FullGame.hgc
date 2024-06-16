@@ -1,0 +1,24 @@
+CREATURES:
+	butterfly [walking queen]
+	crab 3 [walking intruding]
+	horse 2 [running swapping]
+	dove 5 [flying intruding]
+	grasshopper 4 [jumping kamikaze]
+	hummingbird 3 [flying swapping]
+	rabbit 2 [jumping]
+	spider 4 [walking]
+	duck 2 [flying]
+	turtle 5 [running]
+
+PLAYERS:
+	BLUE
+		butterfly 1,
+		crab 2,
+		horse 1,
+		dove 2,
+		grasshopper 1,
+		hummingbird 2,
+		rabbit 1,
+		spider 2,
+		duck 1,
+		turtle 2

@@ -1,0 +1,26 @@
+/* HexAround Game Configuration for Level 2 */
+
+CREATURES:
+	butterfly [walking queen]
+	crab 3 [walking]
+	duck 5 [flying]
+	spider 2 [walking]
+	hummingbird 6 [flying kamikaze]
+	grasshopper 4 [jumping]
+
+PLAYERS:
+	BLUE
+		butterfly 1,
+		crab 3,
+        duck 5,
+        hummingbird 2,
+        grasshopper 3,
+        spider 1
+
+	RED
+		butterfly 1,
+		crab 2,
+		duck 5,
+		spider 2,
+		grasshopper 2,
+		hummingbird 2

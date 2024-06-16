@@ -1,0 +1,26 @@
+/* HexAround Game Configuration for Level 3 */
+
+CREATURES:
+	butterfly [walking queen]
+	duck 5 [flying swapping]
+	grasshopper 4 [jumping]
+	horse 5 [running]
+	rabbit 4 [running intruding]
+	turtle 4 [walking intruding]
+
+PLAYERS:
+	BLUE
+		butterfly 1,
+        duck 5,
+        grasshopper 3,
+		horse 3,
+        rabbit 3,
+        turtle 3
+
+	RED
+		butterfly 1,
+		duck 5,
+		grasshopper 3,
+		horse 3,
+		rabbit 3,
+		turtle 3
